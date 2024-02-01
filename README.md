@@ -19,5 +19,4 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedrohfCarlos&theme=dark&show_icons=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohfCarlos&layout-compact&langs_count=16&theme=dark"/>
 </div>
-![snake gif](https://github.com/PedrohfCarlos/PedrohfCarlos/blob/output/github-contribution-grid-snake.svg)
 
