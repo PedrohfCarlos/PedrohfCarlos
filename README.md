@@ -19,6 +19,9 @@
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=PedrohfCarlos&theme=dark&show_icons=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedrohfCarlos&layout-compact&langs_count=16&theme=dark"/>
 </div>
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/PedrohfCarlos/count.svg" /></p>
 
+
+![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
 
 
