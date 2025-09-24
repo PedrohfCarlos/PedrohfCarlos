@@ -33,3 +33,6 @@
 </picture>
 
 ###
+<img src="https://raw.githubusercontent.com/PedrohfCarlos/PedrohfCarlos/output/snake.svg" alt="Snake animation" />
+
+###
