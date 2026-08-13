@@ -47,10 +47,3 @@
 
 ---
 
-### 📊 GitHub Stats
-<div align="center" style="display: flex; flex-direction: column; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedrohfCarlos&show_icons=true&count_private=true&include_all_commits=true&theme=dracula&hide_border=false&locale=pt-br" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedrohfCarlos&layout=compact&langs_count=5&theme=dracula&hide_border=false&locale=pt-br" height="150" alt="Top Languages" />
-</div>
-
----
